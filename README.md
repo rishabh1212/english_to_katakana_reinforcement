@@ -2,7 +2,7 @@
 
 Translation from english to katakana using reinforcement learning
 
-## Why?
+## Why do this?
 
 1. There are lots of python packages which gives romaji to katakana (ex. romkan), but sometimes they dont work that well(ex. adobe translation).
 2. Sometimes english syllables translation into different katakana syllables, there is not one single rule. I believe these set of rules can be learnt using reinforcement learning.
